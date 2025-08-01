@@ -1,119 +1,77 @@
-# Ternify-Tech
-Web development (frontend intern)
+🛍️ Product Landing Page – Task 1
 
----
+✅ Task Overview:
 
-📝 Ternify Tech Internship
-
-💻 Task 1: Quiz App (Web Development)
-
-
-
-
-📁 Project Name:
-
-Interactive Quiz Application
+This project is part of my internship at Ternify Tech, where I was assigned to create a Product Landing Page using HTML, CSS, and JavaScript.
 
 
 ---
 
-👨‍💻 Submitted By:
+🌟 Features:
 
-Aravind Kumar G.S
-Web Development Intern @ Ternify Tech
+🧭 Responsive Navigation Bar
+
+📸 Hero Section with Call-to-Action
+
+📦 Product Feature Highlights
+
+📝 About/Info Section
+
+📞 Contact Footer
+
+🎨 Mobile-Friendly Layout
+
 
 
 ---
 
-🛠️ Tech Stack:
+🛠️ Technologies Used:
 
 HTML5
 
 CSS3
 
-JavaScript (Vanilla)
+JavaScript (for minor interactivity)
 
 
 
 ---
 
-🎯 Objective:
+📁 Folder Structure:
 
-Create a fully functional web-based quiz application that:
-
-Presents MCQs one at a time
-
-Lets users select answers
-
-Calculates and displays score
-
-Offers option to retake the quiz
-
+product-landing-page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images/
 
 
 ---
 
-📂 File Structure:
+📸 Screenshot:
 
-Filename	Purpose
-
-index.html	Markup for quiz layout and elements
-style.css	Styling for UI and responsiveness
-quiz.js	Logic for questions, score, and flow
-
+(Insert screenshot image or link here if applicable)
 
 
 ---
 
-📸 Features:
+🔗 Live Demo:
 
-Responsive design (mobile-friendly)
-
-Real-time question navigation
-
-Score tracking and feedback
-
-Restart quiz functionality
-
-Clean and intuitive UI
-
+[Insert Live Link Here]
 
 
 ---
 
-📱 Steps to Run (On Mobile):
+📂 GitHub Repository:
 
-1. Install a Code Editor App like:
-
-Acode
-
-Spck Editor
-
-Dcoder
-
-
-
-2. Create 3 files:
-
-index.html
-
-style.css
-
-quiz.js
-
-
-
-3. Paste the respective code into each file.
-(Let me know if you want full source code now.)
-
-
-4. Run index.html in the mobile editor preview option.
-
-
+[Insert GitHub Repository Link Here]
 
 
 ---
 
-🔄 To Restart Quiz:
+🤝 Acknowledgments:
 
-At the end of the quiz, click the “Restart” button to reload questions from the beginning.
+Thanks to Ternify Tech for the opportunity to explore web development projects during the internship.
+
